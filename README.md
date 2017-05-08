@@ -1,16 +1,6 @@
-# nwb-jest
+# NWB with jest
 
-[![Travis][build-badge]][build]
-[![npm package][npm-badge]][npm]
-[![Coveralls][coveralls-badge]][coveralls]
+[![Build Status](https://travis-ci.org/how-to-react/nwb-jest.svg?branch=master)](https://travis-ci.org/how-to-react/nwb-jest)
+[![Coverage Status](https://coveralls.io/repos/github/how-to-react/nwb-jest/badge.svg?branch=master)](https://coveralls.io/github/how-to-react/nwb-jest?branch=master)
 
-Describe nwb-jest here.
-
-[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
-[build]: https://travis-ci.org/user/repo
-
-[npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
-[npm]: https://www.npmjs.org/package/npm-package
-
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/user/repo
+NWB with jest running, see jest.transform and package.json for differences.
